@@ -42,6 +42,12 @@ export OPENAI_API_KEY=<your-key>
 export AWS_ACCESS_KEY_ID=<your-key>
 export AWS_SECRET_ACCESS_KEY=<your-key>
 export AWS_SESSION_TOKEN=<your-key>
+
+#for windows
+set OPENAI_API_KEY=<your-key>
+set AWS_ACCESS_KEY_ID=<your-key>
+set AWS_SECRET_ACCESS_KEY=<your-key>
+set AWS_SESSION_TOKEN=<your-key>
 ```
 
 ## running:
